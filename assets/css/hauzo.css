@@ -10522,22 +10522,22 @@ ul {
 }
 
 /*--------------------------------------------------------------
-# Handyman Service
+# Electrical Service
 --------------------------------------------------------------*/
-.handyman-service {
+.Electrical-service {
   position: relative;
   display: block;
   padding: 108px 0 111px;
 }
 
-.handyman-service__title-box {
+.Electrical-service__title-box {
   position: relative;
   display: block;
   text-align: center;
   margin-bottom: 24px;
 }
 
-.handyman-service__sub-title {
+.Electrical-service__sub-title {
   position: relative;
   display: inline-block;
   font-size: 14px;
@@ -10548,7 +10548,7 @@ ul {
   line-height: 14px;
 }
 
-.handyman-service__sub-title:before {
+.Electrical-service__sub-title:before {
   position: absolute;
   left: -40px;
   top: 5px;
@@ -10558,7 +10558,7 @@ ul {
   content: "";
 }
 
-.handyman-service__sub-title:after {
+.Electrical-service__sub-title:after {
   position: absolute;
   right: -40px;
   top: 5px;
@@ -10568,7 +10568,7 @@ ul {
   content: "";
 }
 
-.handyman-service__title {
+.Electrical-service__title {
   font-size: 26px;
   color: var(--hauzo-black);
   font-weight: 500;
@@ -10576,17 +10576,17 @@ ul {
   margin-top: 18px;
 }
 
-.handyman-service__content {
+.Electrical-service__content {
   position: relative;
   display: block;
   text-align: center;
 }
 
-.handyman-service__text-1 {
+.Electrical-service__text-1 {
   padding-bottom: 29px;
 }
 
-.handyman-service__text-2 {
+.Electrical-service__text-2 {
   font-size: 20px;
   font-style: italic;
 }
